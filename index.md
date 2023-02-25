@@ -1,6 +1,8 @@
 ---
 title: Just the Docs test
 layout: home
+nav_order: 2
+has_children: true
 ---
 
 # Hello world!
@@ -13,7 +15,9 @@ This is just the beginning of a *Bizarre Just the Docs page*!
 
 ![Za Warudo](Images/jotaro-star-platinum.gif)
 
+## Lecimy dalej
 
+[Tutaj](Markdown-in-CAT-test.md) możesz obczaić coś nowego.
 
 ----
 
