@@ -9,15 +9,15 @@ has_children: true
 
 This is just the beginning of a *Bizarre Just the Docs page*!
 
-![Sharque](Images/IMG_20200401_210429.jpg "Technical Writer Sharque")
+
 
 ## It's Not What You Think It Is !!?!
 
-![Za Warudo](Images/cat-computer.gif)
+
 
 ## Lecimy dalej
 
-[Tutaj](How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022#How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022) możesz obczaić coś nowego.
+[Tutaj](How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022#how-markdown-is-processed-by-wordfast-pro-7-and-trados-studio-2022-) możesz obczaić coś nowego.
 
 ----
 
