@@ -13,7 +13,7 @@ This is just the beginning of a *Bizarre Just the Docs page*!
 
 ## It's Not What You Think It Is !!?!
 
-![Za Warudo](Images/jotaro-star-platinum.gif)
+![Za Warudo](Images/cat-computer.gif)
 
 ## Lecimy dalej
 
