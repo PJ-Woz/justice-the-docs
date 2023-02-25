@@ -10,5 +10,7 @@ favicon_ico: /Images/6cf.jpg
 
 heading_anchors: true
 
+color_scheme: dark
+
 aux_links:
   Template Repository: https://github.com/pj-woz/justice-the-docs
