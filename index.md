@@ -17,7 +17,7 @@ This is just the beginning of a *Bizarre Just the Docs page*!
 
 ## Lecimy dalej
 
-[Tutaj](Markdown-in-CAT-test.md) możesz obczaić coś nowego.
+[Tutaj](Reference#How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022) możesz obczaić coś nowego.
 
 ----
 
