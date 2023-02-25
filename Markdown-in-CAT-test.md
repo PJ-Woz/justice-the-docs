@@ -5,7 +5,7 @@ parent: Just the Docs test
 nav_order: 1
 ---
 
-How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022 <!-- omit in toc -->
+# How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022 <!-- omit in toc -->
 ===
 
 <!-- This here is a comment. And I'd like to create a TOC below -->
