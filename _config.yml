@@ -4,8 +4,7 @@ theme: just-the-docs
 
 url: https://pj-woz.github.io/justice-the-docs
 
-plugins:
-  - jekyll-default-layout
+
 
 aux_links:
   Template Repository: https://github.com/pj-woz/justice-the-docs
