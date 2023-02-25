@@ -1,6 +1,6 @@
 ---
 title: Just the Docs test
-layout: Creative
+layout: home
 ---
 
 # Hello world!
