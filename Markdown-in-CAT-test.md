@@ -1,3 +1,10 @@
+---
+title: How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022
+layout: default
+nav_order: 3
+has_children: true
+---
+
 How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022 <!-- omit in toc -->
 ===
 
