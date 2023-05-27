@@ -1,8 +1,8 @@
 ---
 title: How Markdown is Processed by Wordfast Pro 7 and Trados Studio 2022
 layout: default
-parent: Just the Docs test
-nav_order: 2
+parent: index
+nav_order: 1
 has_children: true
 ---
 
