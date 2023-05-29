@@ -13,11 +13,11 @@ This is just the beginning of a *Bizarre Just the Docs page*!
 
 ## It's Not What You Think It Is !!?!
 
-
+And here is something more
 
 ## Lecimy dalej
 
-[Tutaj](Markdown-in-CAT-test) możesz obczaić coś nowego.
+[Tutaj](Markdown-in-CAT-test) możesz obczaić coś ciekawego.
 
 ----
 
