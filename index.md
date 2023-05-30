@@ -17,7 +17,7 @@ And here is something more
 
 ## Lecimy dalej
 
-[Tutaj](Markdown-in-CAT-test.md#header) możesz obczaić coś ciekawego.
+[Tutaj](Markdown-in-CAT-test#header) możesz obczaić coś ciekawego.
 
 ----
 
