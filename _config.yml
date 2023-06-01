@@ -20,3 +20,6 @@ back_to_top: true
 back_to_top_text: "Back to WORK!"
 
 color_scheme: thorium
+
+gems:
+  - jekyll-relative-links
