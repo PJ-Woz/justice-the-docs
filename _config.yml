@@ -21,4 +21,5 @@ back_to_top_text: "Back to WORK!"
 
 color_scheme: thorium
 
-
+plugins:
+  - jekyll-relative-links
