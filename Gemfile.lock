@@ -30,6 +30,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    gem install jekyll-relative-links
     jekyll-relative-links (0.7.0)
       jekyll-relative-links (~> 0.7.0)
     jekyll-sass-converter (2.2.0)
