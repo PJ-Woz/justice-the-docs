@@ -40,10 +40,10 @@ $grey-dk-200: #011428;
 $grey-dk-250: #011021;
 $grey-dk-300: #010e1e;
 
-$grey-lt-000: #e5ebf2;
-$grey-lt-100: #e5ebf2;
-$grey-lt-200: #e5ebf2;
-$grey-lt-300: #e5ebf2;
+$grey-lt-000: #fbfbfc;
+$grey-lt-100: #dae6ef;
+$grey-lt-200: #d4d4d4;
+$grey-lt-300: #a6b1be;
 
 $purple-000: #7253ed;
 $purple-100: #5e41d0;
@@ -52,7 +52,7 @@ $purple-300: #381885;
 
 $blue-000: #385a6b;
 $blue-100: #03468f;
-$blue-200: #03468f;
+$blue-200: #88bdf5;
 $blue-300: #03468f;
 
 $green-000: #41d693;
@@ -70,18 +70,18 @@ $red-100: #f96e65;
 $red-200: #e94c4c;
 $red-300: #dd2e2e;
 
-$body-background-color: $blue-000;
-$sidebar-color: $purple-000;
+$body-background-color: $grey-lt-000;
+$sidebar-color: $grey-lt-100;
 $search-background-color: $white;
 $table-background-color: $white;
-$code-background-color: $green-000;
+$code-background-color: $grey-lt-100;
 $feedback-color: darken($sidebar-color, 5%);
 
 $body-text-color: $grey-dk-100;
 $body-heading-color: $grey-dk-300;
 $search-result-preview-color: $grey-dk-000;
 $nav-child-link-color: $grey-dk-000;
-$link-color: $blue-300;
+$link-color: $blue-000;
 $btn-primary-color: $blue-300;
 $base-button-color: #f7f7f7;
 
